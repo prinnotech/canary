@@ -36,8 +36,8 @@
   },
   "publish": {
     "provider": "github",
-    "owner": "electron-vite",
-    "repo": "electron-vite-react",
+    "owner": "prinnotech",
+    "repo": "canary",
     "releaseType": "release"
   }
 }
