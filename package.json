@@ -27,7 +27,7 @@
     "fast-xml-parser": "^5.11.0",
     "p-queue": "^9.3.3",
     "p-retry": "^8.0.0",
-    "pocketbase": "^0.27.3",
+    "pocketbase": "^0.28.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {
